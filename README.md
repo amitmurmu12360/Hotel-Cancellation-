@@ -1,8 +1,8 @@
 # Hotel-Cancellation-
-buisness req - to know the reasons behind the cancellatio of hotel rooms
+buisness req - to know the reasons behind the cancellation of hotel rooms?
 step- 
-loading dataset,
+loading dataset on jupyter notebook,
 performing EDA, analysing the dataset,
 cleaning,
 ploting different graphs,
-comming to the conclusion & creating report.
+comming to the conclusion & created report.
